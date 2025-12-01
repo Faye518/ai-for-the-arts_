@@ -1,0 +1,29 @@
+Humanities (A) 
+Part 1: Setting Up Your Environment (Weeks 1 & 2)
+Getting Started
+In this course, we are going to learn some basic programming concepts, and how the 
+Python programming language is used in a typical machine learning pipeline.
+In a typical computer science programme, you would learn how to write computer 
+programs (also known as code) in one course, and learn about AI models in another
+course. In contrast, we are taking a shortcut, to focus on how to read code instead of 
+how to write programs/code, and, to develop skills in communicating about code (for 
+example, to the technical team in your group or to the public). In particular, you are
+expected to reflect on how you can present code to engage a broader arts and 
+humanities audience in your interpretation and perspective on the code. This will help
+us reflect more deeply on the human-centric social and cultural implications of AI as 
+AI starts with a computer program.
+Your objective: to not freak out when you see code and to help other to not freak out 
+when they see code!
+What is code?
+Before we talk about code, we need to talk about two related concepts: algorithms and 
+pseudocode. You may have already come across the term “algorithm” in some of the 
+news articles.1 When it is mentioned in the news, it is often a term which is used 
+interchangeably with computer program. 
+However, the concept of algorithm is used more generally in computer science, as a 
+step-by-step procedure to solve a problem and does not necessarily have to be 
+something that can be run on a computer nor does it have to be written in a 
+programming language. It can be written in plain English.
+Pseudocode is similar in that it does not have to be something you can run on a 
+computer, nor written in any specific programming language, but generally adopts basic 
+programming concepts in the procedural description to make it code-like. You will be 
+exploring some of these concepts in this lab with Python. It is kind of like a “universal
